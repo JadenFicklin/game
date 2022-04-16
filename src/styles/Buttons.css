@@ -12,3 +12,20 @@
   height: 93%;
   background-color: orange;
 }
+.shop-box {
+  width: 50%;
+  height: 500px;
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 20px;
+}
+.money {
+  width: 50%;
+  height: 20px;
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 10px;
+}
+span {
+  margin-right: 10px;
+}
